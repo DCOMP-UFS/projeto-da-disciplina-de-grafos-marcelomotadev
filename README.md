@@ -1,5 +1,5 @@
-# Projeto para Disciplina Grafos
--> Alunos:
+# Rede de Colaboração Científica
+Alunos:
 - Marcelo Pedral Mota
 - Anderson Graça Araújo
 - Roberdan Tamyr dos Santos
@@ -7,7 +7,7 @@
 
 # Explicação:
 
-Temos 3 arquivos, o bfs.py e o appManualDB são implementações levando em conta um grafo feito manualmente, conexo a partir dessa imagem:
+Temos 3 arquivos, o bfs.py e o appManualDB são implementações levando em conta um grafo feito manualmente, a partir dessa imagem:
 
 ![Grafo feito manualmente](manualGraph.jpg)
 
